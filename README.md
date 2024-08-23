@@ -1,3 +1,5 @@
+![santander_code_girls](https://github.com/user-attachments/assets/6bf38029-ca0b-42de-9010-67f6270184f8)
+
 # Bootcamp Santander Code Girls
 
 Bootcamp do Santander em parceria com a DIO, focado na qualificação de mulheres no mundo da programação. 
@@ -16,3 +18,5 @@ Onde os principais conhecimentos adquiridos foram:
 - Spring Framework;
 - Apache Maven.
 
+# Certificado de Conclusão
+![julie_certificado_code_girls](https://github.com/user-attachments/assets/4d7a4a4d-954a-4f43-a6bd-b8581e29bf0e)
